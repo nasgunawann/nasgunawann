@@ -1,76 +1,34 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=32F700&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+World!;I'm+Nasrullah+Gunawan.;Full-Stack+Web+Developer;Aspiring+Solutions+Architect" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=500&color=32F700&width=435&lines=Hello%2C+World!;I'm+Nasgunawan.;Halo%2C+Dunia!;Saya+Nasgunawan.)](https://git.io/typing-svg)
-<br>
+<p align="center">
+  <strong>Founder & Lead Software Engineer at Nanasgunung Creative Studio</strong><br>
+  Building scalable web apps, integrating LLMs, and architecting cloud solutions.
+</p>
 
-<img src="https://media.tenor.com/fRuAmfcqxU8AAAAj/run-horses.gif" width="105"> <img src="https://media.tenor.com/yzRa1CN1WNQAAAAi/fat-horse.gif" width="105"> <img src="https://media.tenor.com/fRuAmfcqxU8AAAAj/run-horses.gif" width="105"> <img src="https://media.tenor.com/yzRa1CN1WNQAAAAi/fat-horse.gif" width="105">
+<p align="center">
+  🚀 <code>Current Focus:</code> AWS re/Start Graduate (June 2026) & Preparing for AWS Certified Cloud Practitioner (CCP)
+</p>
 
-<img align="right" width=350px alt="We Have Technology" src="https://media1.tenor.com/m/awN35nOvAxgAAAAC/escalesolutions-escale.gif" style="border-radius: 50px;"/>
+<p align="center">
+  <a href="https://nasgunawan.dev">🌐 Website </a> • 
+  <a href="https://linkedin.com/in/nasgunawan">💼 LinkedIn</a> • 
+  <a href="mailto:nasgunawann@gmail.com">📬 Email</a>
+</p>
 
-I am a **Information Systems Student** and a **freelancer** at Nanasgunung Creative Studio. I create things that are **functional, creative, and unique**, tailored to client needs. My focus is **frontend development**, while learning backend and exploring new technologies.  
+---
+| Category | Technologies |
+| :--- | :--- |
+| **Development** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
 
-- 🔭 I’m currently learning **TypeScript, and Game Development (Godot/GDScript)**  
-- 🚀 I’m open to **freelance projects and collaborations**  
-- ✔ I love building something **creative and useful**  
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasgunawann&theme=github-dark-vivid&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
-Outside tech, I enjoy **photography, design, and exploring new tools**.  
-
-### 📫 Contact
-- Instagram: [@nanasgunung](https://instagram.com/nanasgunung)  
-- Email: [nasgunawann@gmail.com](mailto:nasgunawann@gmail.com)  
-- Website: [nanasgunung.com](https://nanasgunung.com)
-
-<br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;***Skills***  
-
-###### Languages  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-###### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-###### Backend & Frameworks
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-
-###### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-
-###### Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-###### Game Development
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
-
-
-
-<br>
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">&nbsp;***My Projects***  
-<!-- Example Project -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Name</h3>
-      <div align="center">
-        <p>Coming Soon.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<p align="center">
+  <img src="https://metrics.lecoq.io/nasgunawann?base=repositories%2C+metadata&config_timezone=Asia%2FJakarta&theme=dark" width="48%" alt="Metrics Summary" />
+</p>
