@@ -28,7 +28,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasgunawann&theme=github-dark-vivid&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/nasgunawann?base=repositories%2C+metadata&config_timezone=Asia%2FJakarta&theme=dark" width="48%" alt="Metrics Summary" />
-</p>
