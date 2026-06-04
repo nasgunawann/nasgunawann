@@ -20,11 +20,15 @@
 ---
 | Category | Technologies |
 | :--- | :--- |
-| **Development** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
-
+| **Development** | <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a> <a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /></a> <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a> |
+| **Cloud & DevOps** | <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" /></a> <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a> <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" /></a> <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a> |
+| **Design** | <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" /></a> |
 ---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasgunawann&theme=github-dark-vivid&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasgunawann&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
+
+
+
+
